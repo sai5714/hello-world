@@ -1,3 +1,3 @@
 # maven-projec
 
-Test97
+Test96
