@@ -3,4 +3,4 @@ From hshar/webapp
  
 # Maintainer 
 MAINTAINER "sai" 
-COPY ./webapp.war '/var/www/html
+COPY ./webapp.war '/var/www/html'
