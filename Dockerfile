@@ -3,4 +3,4 @@ From hshar/webapp
  
 # Maintainer 
 MAINTAINER "sai" 
-ADD ./webapp.war '/var/www/html'
+ADD ./workspace/Test5/webapp/target/webapp.war /var/www/html
