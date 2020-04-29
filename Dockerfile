@@ -3,6 +3,7 @@ From hshar/webapp
 
 
 RUN echo 'ServerName localhost' >> /etc/apache2/apache2.conf
+CMD sudo /etc/init.d/apache2 restart
  
 # Maintainer 
 MAINTAINER "sai" 
